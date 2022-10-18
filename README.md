@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soundous2001
 - 👀 I’m interested in coding and maths and sports
 - 🌱 I’m currently learning programming and maths 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
